@@ -2,7 +2,7 @@
 
 NEW_USER="l4d2"
 BASHRC_FILE="/home/${NEW_USER}/.bashrc"
-SCRIPT_URL="https://fastly.jsdelivr.net/gh/umlka/l4d2@main/server_install/l4d2.sh"
+SCRIPT_URL="gh.123415.xyz/https://raw.githubusercontent.com/scarlett518/l4d2/refs/heads/main/server_install/l4d2.sh"
 
 function ubuntu() {
 	echo -e "\e[92m安装依赖...\e[0m"
