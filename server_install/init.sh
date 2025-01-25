@@ -12,7 +12,7 @@ function ubuntu() {
 		16.04|18.04|20.04)
 			sudo apt -y install lib32gcc1 lib32stdc++6 lib32z1-dev curl screen zip unzip
 		;;
-		22.04)
+		24.04)
 			sudo apt -y install lib32gcc-s1 lib32stdc++6 lib32z1-dev curl screen zip unzip
 		;;
 		*)
